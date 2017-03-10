@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 34c0e2656acb8682571b
+gatekeeper_host: https://parliament-sessions.herokuapp.com
 
 # Dataset schema
 schema: default
